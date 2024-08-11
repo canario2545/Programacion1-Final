@@ -1,0 +1,17 @@
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryLogica.deps.json
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryLogica.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryLogica.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryDate.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryEntidad.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryDate.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\bin\Debug\net8.0\LibraryEntidad.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.csproj.AssemblyReference.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.AssemblyInfoInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.AssemblyInfo.cs
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryL.CE6C58F4.Up2Date
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\refint\LibraryLogica.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\LibraryLogica.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryLogica\obj\Debug\net8.0\ref\LibraryLogica.dll
