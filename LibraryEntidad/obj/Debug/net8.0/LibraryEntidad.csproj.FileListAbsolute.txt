@@ -1,0 +1,12 @@
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\bin\Debug\net8.0\LibraryEntidad.deps.json
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\bin\Debug\net8.0\LibraryEntidad.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\bin\Debug\net8.0\LibraryEntidad.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.csproj.AssemblyReference.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.AssemblyInfoInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.AssemblyInfo.cs
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\refint\LibraryEntidad.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\LibraryEntidad.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryEntidad\obj\Debug\net8.0\ref\LibraryEntidad.dll

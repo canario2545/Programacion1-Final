@@ -1,0 +1,15 @@
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\bin\Debug\net8.0\LibraryDate.deps.json
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\bin\Debug\net8.0\LibraryDate.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\bin\Debug\net8.0\LibraryDate.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\bin\Debug\net8.0\LibraryEntidad.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\bin\Debug\net8.0\LibraryEntidad.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.csproj.AssemblyReference.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.AssemblyInfoInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.AssemblyInfo.cs
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryD.1F68220B.Up2Date
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\refint\LibraryDate.dll
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\LibraryDate.pdb
+C:\Users\kelvi\source\repos\LibraryManagemen\LibraryDate\obj\Debug\net8.0\ref\LibraryDate.dll
