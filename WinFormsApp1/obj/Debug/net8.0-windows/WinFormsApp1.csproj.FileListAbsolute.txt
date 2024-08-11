@@ -1,7 +1,0 @@
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormLibrery.resources
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
-C:\Users\kelvi\source\repos\LibraryManagemen\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
